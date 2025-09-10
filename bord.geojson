@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bord",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 41.957360980270849, 45.038498892927429 ], [ 41.957859947890626, 45.036160527851301 ], [ 41.966333213973762, 45.037078796391896 ], [ 41.965901591676889, 45.039319785664418 ], [ 41.957360980270849, 45.038498892927429 ] ] ] } }
+]
+}
